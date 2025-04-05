@@ -1,0 +1,7 @@
+pygame
+numpy
+sounddevice
+moviepy
+google-cloud-speech
+openai
+pydub
