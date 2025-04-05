@@ -1,6 +1,6 @@
-# Magic Mirror 🦮✨
+# Magic Hologram 🦮✨
 
-A personalized smart mirror that listens, talks (via OpenAI), and plays video in the background — in Persian (Farsi)!
+A personalized smart mirror/hologram that listens, talks (via OpenAI), and plays video in the background — in Persian (Farsi)!
 
 ---
 
